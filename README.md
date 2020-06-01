@@ -8,7 +8,7 @@ Text generation can be done through simply predicting the next most likely word,
 **TensorFlow** provides number of libraries for NLP in Deep learning. Used Deep neural network to generate the sequence of tamil words from the tamil songs lyrics dataset which has been scrapped from 
 [tamilpaa.com](https://www.tamilpaa.com/).  
 
-retrieveLyrics.py file scraps the data from the website and created a .xlsx file from it.
+scrapLyrics.py file scraps the data from the website and created a .xlsx file from it.
 Used **Google Colab** to implement TensorFlow neural networks in the file,    
  
 Dataset is now available at https://www.kaggle.com/sivaskvs/tamil-songs-lyrics-dataset 
